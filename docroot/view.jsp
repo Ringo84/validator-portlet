@@ -40,7 +40,7 @@
 		<aui:validator name="required"></aui:validator>
 	</aui:input>
 	<aui:input name="test2" />
-	<aui:button cssClass="save" value="Save" type="submit"></aui:button>
+	<aui:button cssClass="save" value="save" type="submit"></aui:button>
 </aui:form>
 
 <aui:script use="aui-form-validator,liferay-form">
